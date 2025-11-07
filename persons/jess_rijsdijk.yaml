@@ -1,0 +1,5 @@
+- name: Jess Rijsdijk
+  id: jess_rijsdijk
+  device_trackers: 
+    - device_tracker.oneplus_6t
+    

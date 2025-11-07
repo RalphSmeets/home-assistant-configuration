@@ -1,0 +1,2 @@
+person: !include ../persons.yaml
+person split: !include_dir_list ../persons

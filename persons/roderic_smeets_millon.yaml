@@ -1,0 +1,4 @@
+- name: Roderic Smeets--Millon
+  id: roderic_smeets_millon
+  device_trackers:
+    - device_tracker.oneplus_9_pro

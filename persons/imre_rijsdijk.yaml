@@ -1,0 +1,4 @@
+- name: Imre Rijsdijk
+  id: imre_rijsdijk
+  device_trackers:
+    - device_tracker.oppo_reno13_f_5g

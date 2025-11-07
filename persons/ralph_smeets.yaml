@@ -1,0 +1,4 @@
+- name: Ralph Smeets
+  id: ralph_smeets
+  device_trackers:
+    - device_tracker.s24_van_ralph

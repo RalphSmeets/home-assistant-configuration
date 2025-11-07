@@ -1,0 +1,32 @@
+sequence:
+  - if:
+    - condition: or
+      conditions:
+      - condition: zone
+        entity_id: person.ralph_smeets
+        zone: zone.home
+      - condition: zone
+        entity_id: person.roderic_smeets_millon
+        zone: zone.home
+      - condition: zone
+        entity_id: person.irene_wouters
+        zone: zone.home
+      - condition: zone
+        entity_id: person.imre_rijsdijk
+        zone: zone.home
+      - condition: zone
+        entity_id: person.jess_rijsdijk
+        zone: zone.home
+      - condition: 
+        entity_id: person.gerda_smeets
+        zone: zone.home
+      - condition: zone
+        entity_id: person.giel_smeets
+        zone: zone.home
+    then:
+      - action: input_boolean.turn_on
+        target:
+          entity_id: input_boolean.iemand_is_thuis
+alias: Iemand is thuis
+description: 'Als er een bekend iemand thuis is, signaleer dat.'
+

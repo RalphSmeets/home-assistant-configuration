@@ -1,0 +1,4 @@
+- name: Irene Wouters
+  id: irene_wouters
+  device_trackers:
+    - device_tracker.s24_fe_van_irene

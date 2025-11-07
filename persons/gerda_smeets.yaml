@@ -1,0 +1,4 @@
+- name: Gerda Smeets
+  id: gerda_smeets
+  device_trackers:
+    - device_tracker.nokia_van_gerda
