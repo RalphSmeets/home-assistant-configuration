@@ -1,2 +1,0 @@
-openhasp: !include: ../openhasp.yaml
-openhasp split: !include_dir_named ../openhasp
