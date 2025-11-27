@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "auth",
+  "data": {
+    "users": [
+      {
+        "id": "e24378c9a9d0418f89743841f99d229c",
+        "group_ids": [
+          "system-read-only"
+        ],
+        "is_owner": false,
+        "is_active": true,
+        "name": "Home Assistant Content",
+        "system_generated": true,
+        "local_only": false
+      },
+      {
+        "id": "7f056644fd8442d392f724f8adeed3e0",
+        "group_ids": [
+          "system-read-only"
+        ],
+        "is_owner": false,
+        "is_active": true,
+        "name": "Home Assistant Content",
+        "system_generated": true,
+        "local_only": false
+      },
+      {
+        "id": "1182d237f3304b2f8148c5d482601be7",
+        "group_ids": [
+          "system-admin"
+        ],
+        "is_owner": false,
+        "is_active": true,
+        "name": "ralph",
+        "system_generated": false,
+        "local_only": false
+      }
+    ],
+    "groups": [
+      {
+        "id": "system-admin",
+        "name": "Administrators"
+      },
+      {
+        "id": "system-users",
+        "name": "Users"
+      },
+      {
+        "id": "system-read-only",
+        "name": "Read Only"
+      }
+    ],
+    "credentials": [
+      {
+        "id": "fa7f5b2da43f49d0aee3d3dc19026e21",
+        "user_id": "1182d237f3304b2f8148c5d482601be7",
+        "auth_provider_type": "homeassistant",
+        "auth_provider_id": null,
+        "data": {
+          "username": "ralph"
+        }
+      }
+    ],
+    "refresh_tokens": [
+      {
+        "id": "355a81c2606d4199b39a8955709d0cbe",
+        "user_id": "e24378c9a9d0418f89743841f99d229c",
+        "client_id": null,
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "system",
+        "created_at": "2025-11-05T15:51:41.226410+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "723425d013927101568d43e544c4176302a7ad8a3d13d8adb65dd62356ff1cf6cabb4624795721dcbab4e64db83d469a890135c765344bbd3c9d9d714c5f4d9d",
+        "jwt_key": "003293540541dbfb1973e22b8cddd094d77e6d482d3ecfcd972160a79a2a526ef85409e64b57c59f101de629380aef7c97fd2a780ee0292190f63b65d8d5f9a6",
+        "last_used_at": null,
+        "last_used_ip": null,
+        "expire_at": null,
+        "credential_id": null,
+        "version": "2025.10.3"
+      },
+      {
+        "id": "0ff2ba1bdc024157b8ff7e9747302581",
+        "user_id": "7f056644fd8442d392f724f8adeed3e0",
+        "client_id": null,
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "system",
+        "created_at": "2025-11-05T16:18:06.962831+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "4a4dc0e3d98ec55ebe7889aea4e2bcc85f931b9b788040642505ba9434e3ea86a78c3bd04880ea40e3b01c9eaf853dd33779c454286ac52c4f63a7393c4f9742",
+        "jwt_key": "f36b3ff7b1f928fa71cdf7635749c4d3444c6ad5641e59eacd013c51ae47a7d317774c743bfd1d81ce4bf90a832438f968f555bf0cba08614bc1b901de035af8",
+        "last_used_at": null,
+        "last_used_ip": null,
+        "expire_at": null,
+        "credential_id": null,
+        "version": "2025.10.3"
+      },
+      {
+        "id": "2918fc8efeb34a5d96bc53858a0f4e06",
+        "user_id": "1182d237f3304b2f8148c5d482601be7",
+        "client_id": "https://ha.k8s-frambozen.nl/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2025-11-05T16:24:07.241647+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "b03e01e23bf7a526a27adb099ecdad14015c0ff14009d651477fd2f071718bf4821f366452f2e37d806a443b70f1d5deea7c6d6a76fb59917d783c754c6d1f68",
+        "jwt_key": "1da33c299db5cded6b36dd0b47a356f0bf536b6a958bdb3701594f869865e44fe90dd19deb58e3a02385492669efdfeda32cc3b49f88c88b1946cb148a175980",
+        "last_used_at": "2025-11-26T09:07:26.925213+00:00",
+        "last_used_ip": "10.42.0.0",
+        "expire_at": 1771924046.925213,
+        "credential_id": "fa7f5b2da43f49d0aee3d3dc19026e21",
+        "version": "2025.10.3"
+      },
+      {
+        "id": "ce46f95a315146b485d6c7500517a149",
+        "user_id": "1182d237f3304b2f8148c5d482601be7",
+        "client_id": "https://home-assistant.io/android",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2025-11-05T17:35:57.597841+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "cfa9783d31b0e6f2d1aa4f9ecad2858c77306c593f17a7056cbcd45aebead98471c6a5affe4fdbd671e2a309dd1970c655ac51909db19e0ff22f8a314a09fc39",
+        "jwt_key": "4cdd34d61bf8dbab97597f9cb7380b68c792f8f8c7a03f0798040ffc892b2fb8695899645631acc0fc196e04f4b5d7106ff2c2ad3d1fb1ec9bd41abdcdd261bf",
+        "last_used_at": "2025-11-26T21:00:21.258596+00:00",
+        "last_used_ip": "10.42.0.0",
+        "expire_at": 1771966821.258596,
+        "credential_id": "fa7f5b2da43f49d0aee3d3dc19026e21",
+        "version": "2025.10.3"
+      },
+      {
+        "id": "97070399bf0d49b581ee7dadb3fc1e03",
+        "user_id": "1182d237f3304b2f8148c5d482601be7",
+        "client_id": "https://ha.k8s-frambozen.nl/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2025-11-06T09:46:22.658540+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "5bc622494eabdcb917cbab36bfdfaaa3cf68f917627d87b39838505ee84d1c71158af20039b6cf58ad50933dcf69b34537c160fca5b8b28d3acd449a877cd787",
+        "jwt_key": "b64e5769f428f5ef16b258d548d2f4b29bd787831543fcef513870137d6cc93b601252172f416ee22539f29b4c5934ccb57846e2bb586c7cb93e3c81c9d26965",
+        "last_used_at": "2025-11-27T02:16:52.807213+00:00",
+        "last_used_ip": "10.42.0.0",
+        "expire_at": 1771985812.807213,
+        "credential_id": "fa7f5b2da43f49d0aee3d3dc19026e21",
+        "version": "2025.10.3"
+      },
+      {
+        "id": "b29bdaf8e7a343aabea0afe51209ca69",
+        "user_id": "1182d237f3304b2f8148c5d482601be7",
+        "client_id": "https://ha.k8s-frambozen.nl/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2025-11-06T15:53:47.414937+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "301ca8ea48a8396c9ce4eeb0eeae7d044c3626b03a4d1966ed632c390ad1380cf5fe4b3cb6aec86182d25f5e8cd5bfffd4aca3386aa43e785101ce8711602c0d",
+        "jwt_key": "58c2a4fde02dd8f8d3816ed66265e6c2c8a5211fab9834fad65435011380aee810c1601cd9edc4d5099b88cbf529c8f1bbc58a97ef8b5f2aff96ec6b379047d9",
+        "last_used_at": "2025-11-07T09:37:42.791771+00:00",
+        "last_used_ip": "10.42.0.0",
+        "expire_at": 1770284262.791771,
+        "credential_id": "fa7f5b2da43f49d0aee3d3dc19026e21",
+        "version": "2025.10.3"
+      },
+      {
+        "id": "3bb2cf11fe544152b935ad49b139d846",
+        "user_id": "1182d237f3304b2f8148c5d482601be7",
+        "client_id": "https://ha.k8s-frambozen.nl/",
+        "client_name": null,
+        "client_icon": null,
+        "token_type": "normal",
+        "created_at": "2025-11-17T13:30:03.364834+00:00",
+        "access_token_expiration": 1800.0,
+        "token": "6ccc6fd9fc3570feaf0c40f126ab931c0378ae26ef32dcc1a1f1ad00e29ee8b78f705c68730a5f070338f0164c2a723846a72542e298e548b438e485eae92d17",
+        "jwt_key": "401d2115ffd4f6ae4f28172fd05a67dcaaa9270bdc8f7a2056db8f67ff232456b08957c4d4a763ca42c7d850caaeec3c68edef3645ee8c62bcedfc8d3ca786f8",
+        "last_used_at": "2025-11-17T14:07:16.981398+00:00",
+        "last_used_ip": "10.42.0.0",
+        "expire_at": 1771164436.981398,
+        "credential_id": "fa7f5b2da43f49d0aee3d3dc19026e21",
+        "version": "2025.10.3"
+      }
+    ]
+  }
+}

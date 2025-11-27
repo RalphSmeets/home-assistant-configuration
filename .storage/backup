@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "minor_version": 7,
+  "key": "backup",
+  "data": {
+    "backups": [
+      {
+        "backup_id": "c3fc98f7",
+        "failed_addons": [],
+        "failed_agent_ids": [],
+        "failed_folders": []
+      },
+      {
+        "backup_id": "73397e24",
+        "failed_addons": [],
+        "failed_agent_ids": [],
+        "failed_folders": []
+      },
+      {
+        "backup_id": "f8c035cf",
+        "failed_addons": [],
+        "failed_agent_ids": [],
+        "failed_folders": []
+      },
+      {
+        "backup_id": "d6eddc11",
+        "failed_addons": [],
+        "failed_agent_ids": [],
+        "failed_folders": []
+      },
+      {
+        "backup_id": "75c5d476",
+        "failed_addons": [],
+        "failed_agent_ids": [],
+        "failed_folders": []
+      }
+    ],
+    "config": {
+      "agents": {
+        "backup.local": {
+          "protected": false,
+          "retention": null
+        },
+        "synology_dsm.21B0TER60D72K": {
+          "protected": false,
+          "retention": null
+        }
+      },
+      "automatic_backups_configured": true,
+      "create_backup": {
+        "agent_ids": [
+          "synology_dsm.21B0TER60D72K"
+        ],
+        "include_addons": [],
+        "include_all_addons": false,
+        "include_database": true,
+        "include_folders": null,
+        "name": null,
+        "password": "F6CX-2LFS-ASGL-BT2F-BBUO-8Z8U-90X6"
+      },
+      "last_attempted_automatic_backup": "2025-11-27T04:54:44.576382+01:00",
+      "last_completed_automatic_backup": "2025-11-26T04:59:47.126191+01:00",
+      "retention": {
+        "copies": 3,
+        "days": null
+      },
+      "schedule": {
+        "days": [],
+        "recurrence": "daily",
+        "time": null
+      }
+    }
+  }
+}

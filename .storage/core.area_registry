@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "minor_version": 8,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "aliases": [],
+        "floor_id": "begane_grond",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "woonkamer",
+        "labels": [
+          "begane_grond",
+          "woonkamer"
+        ],
+        "name": "Woonkamer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-23T13:54:52.234778+00:00",
+        "modified_at": "2025-11-13T15:21:59.734743+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "begane_grond",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "keuken",
+        "labels": [],
+        "name": "Keuken",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-23T13:54:52.235408+00:00",
+        "modified_at": "2025-10-30T13:11:42.782741+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "begane_grond",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "tuin",
+        "labels": [],
+        "name": "Tuin",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-23T17:25:19.473898+00:00",
+        "modified_at": "2025-10-23T17:25:19.473941+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "1ste_acherhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "slaapkamer_roderic",
+        "labels": [],
+        "name": "Slaapkamer Roderic",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-23T17:26:41.625017+00:00",
+        "modified_at": "2025-10-30T13:13:01.410095+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "1st_voorhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "slaapkamer_ouders",
+        "labels": [],
+        "name": "Slaapkamer Master",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-23T17:27:02.311456+00:00",
+        "modified_at": "2025-10-30T13:12:11.497052+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "begane_grond",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "voordeur",
+        "labels": [],
+        "name": "Voordeur",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-23T17:29:24.706320+00:00",
+        "modified_at": "2025-10-23T17:29:24.706358+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "tuinhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "kantoor",
+        "labels": [],
+        "name": "Kantoor",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-29T13:42:40.452620+00:00",
+        "modified_at": "2025-10-29T13:42:40.452661+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "1st_voorhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "badkamer",
+        "labels": [],
+        "name": "Badkamer",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-29T13:51:35.047509+00:00",
+        "modified_at": "2025-10-29T13:51:35.047551+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "begane_grond",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "badkamer_roderic",
+        "labels": [],
+        "name": "Badkamer Roderic",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-30T13:15:24.165119+00:00",
+        "modified_at": "2025-10-30T13:15:24.165142+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "1ste_acherhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "chilroom_roderic",
+        "labels": [],
+        "name": "Chilroom Roderic",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-30T13:16:03.806902+00:00",
+        "modified_at": "2025-10-30T13:16:03.806937+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "1st_voorhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "logeerkamer_jess",
+        "labels": [],
+        "name": "Logeerkamer Jess",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-30T13:16:35.061441+00:00",
+        "modified_at": "2025-10-30T13:16:35.061475+00:00"
+      },
+      {
+        "aliases": [],
+        "floor_id": "1st_voorhuis",
+        "humidity_entity_id": null,
+        "icon": null,
+        "id": "logeerkamer_imre",
+        "labels": [],
+        "name": "Logeerkamer Imre",
+        "picture": null,
+        "temperature_entity_id": null,
+        "created_at": "2025-10-30T13:16:54.626333+00:00",
+        "modified_at": "2025-10-30T13:16:54.626376+00:00"
+      }
+    ]
+  }
+}

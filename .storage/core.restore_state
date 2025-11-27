@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.restore_state",
+  "data": [
+    {
+      "state": {"entity_id":"conversation.home_assistant","state":"unknown","attributes":{"friendly_name":"Home Assistant","supported_features":1},"last_changed":"2025-11-21T09:50:32.179464+00:00","last_reported":"2025-11-21T09:50:32.179464+00:00","last_updated":"2025-11-21T09:50:32.179464+00:00","context":{"id":"01KAJX54QK2V36CC20J3VQ5BMJ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"event.backup_automatic_backup","state":"2025-11-26T03:59:47.796+00:00","attributes":{"event_types":["completed","failed","in_progress"],"event_type":"completed","backup_stage":null,"failed_reason":null,"friendly_name":"Backup Automatic backup"},"last_changed":"2025-11-26T03:59:47.796508+00:00","last_reported":"2025-11-26T03:59:47.796508+00:00","last_updated":"2025-11-26T03:59:47.796508+00:00","context":{"id":"01KAZ52GJMARHSE52VCTH1AQ05","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "last_event_type": "completed",
+        "last_event_attributes": {
+          "backup_stage": null,
+          "failed_reason": null
+        }
+      },
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"person.ralph_smeets","state":"home","attributes":{"editable":true,"id":"ralph_smeets","device_trackers":["device_tracker.s24_van_ralph"],"latitude":52.1565948,"longitude":5.3728136,"source":"device_tracker.s24_van_ralph","user_id":"25d8d4ad4a684dad995c2d30127bab37","friendly_name":"Ralph Smeets"},"last_changed":"2025-11-26T20:55:21.389453+00:00","last_reported":"2025-11-26T20:59:25.854347+00:00","last_updated":"2025-11-26T20:55:21.389453+00:00","context":{"id":"01KB0Z621DWD60EFXV9FS8A962","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"person.irene_wouters","state":"home","attributes":{"editable":true,"id":"irene_wouters","device_trackers":["device_tracker.s24_fe_van_irene"],"latitude":52.1565948,"longitude":5.3728136,"source":"device_tracker.s24_fe_van_irene","user_id":"7bb01b6cda1f43038f0c29c0a9b92230","friendly_name":"Irene Wouters"},"last_changed":"2025-11-26T20:55:33.962469+00:00","last_reported":"2025-11-26T20:55:45.382102+00:00","last_updated":"2025-11-26T20:55:33.962469+00:00","context":{"id":"01KB0Z6EAA45021S8SWPRX6KAC","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"person.roderic_smeets_millon","state":"home","attributes":{"editable":true,"id":"roderic_smeets_millon","device_trackers":["device_tracker.oneplus_9_pro"],"latitude":52.1565948,"longitude":5.3728136,"source":"device_tracker.oneplus_9_pro","friendly_name":"Roderic Smeets--Millon"},"last_changed":"2025-11-26T16:09:13.549961+00:00","last_reported":"2025-11-26T16:21:15.850810+00:00","last_updated":"2025-11-26T16:09:13.549961+00:00","context":{"id":"01KB0ET4JD3W956XV8B42KBMSE","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"person.imre_rijsdijk","state":"not_home","attributes":{"editable":true,"id":"imre_rijsdijk","device_trackers":["device_tracker.oppo_reno13_f_5g"],"source":"device_tracker.oppo_reno13_f_5g","friendly_name":"Imre Rijsdijk"},"last_changed":"2025-11-26T20:17:40.101200+00:00","last_reported":"2025-11-26T20:17:40.101200+00:00","last_updated":"2025-11-26T20:17:40.101200+00:00","context":{"id":"01KB0X11R5RAFA2AAQCRZH6X9K","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"person.jess_rijsdijk","state":"not_home","attributes":{"editable":true,"id":"jess_rijsdijk","device_trackers":["device_tracker.oneplus_6t"],"source":"device_tracker.oneplus_6t","friendly_name":"Jess Rijsdijk"},"last_changed":"2025-11-21T09:50:38.335726+00:00","last_reported":"2025-11-21T09:52:25.728401+00:00","last_updated":"2025-11-21T09:52:25.728401+00:00","context":{"id":"01KAJX8KM0DE10XNHJV59PSDBB","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"input_boolean.iemand_aanwezig","state":"off","attributes":{"editable":true,"friendly_name":"Iemand Aanwezig"},"last_changed":"2025-11-21T09:50:38.338385+00:00","last_reported":"2025-11-21T09:50:38.338385+00:00","last_updated":"2025-11-21T09:50:38.338385+00:00","context":{"id":"01KAJX5AR24BRCRPT0XDXEFXX2","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"input_button.koken","state":"unknown","attributes":{"editable":true,"friendly_name":"Koken"},"last_changed":"2025-11-21T09:50:38.339472+00:00","last_reported":"2025-11-21T09:50:38.339472+00:00","last_updated":"2025-11-21T09:50:38.339472+00:00","context":{"id":"01KAJX5AR3V4ND5MSQKAJAFF2E","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"script.iemand_is_thuis","state":"off","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Iemand is thuis"},"last_changed":"2025-11-21T09:50:42.716449+00:00","last_reported":"2025-11-21T09:50:42.716449+00:00","last_updated":"2025-11-21T09:50:42.716449+00:00","context":{"id":"01KAJX5F0WPQZQEMS8YXBJB0VA","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"script.niemand_thuis","state":"off","attributes":{"last_triggered":null,"mode":"single","current":0,"friendly_name":"Niemand thuis"},"last_changed":"2025-11-21T09:50:42.719631+00:00","last_reported":"2025-11-21T09:50:42.719631+00:00","last_updated":"2025-11-21T09:50:42.719631+00:00","context":{"id":"01KAJX5F0Z2BR4N8YZ66F3BBEH","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"automation.verwarming_aan_op_weekdagen","state":"on","attributes":{"id":"1761906035964","last_triggered":null,"mode":"single","current":0,"friendly_name":"Verwarming aan op weekdagen"},"last_changed":"2025-11-21T09:50:44.740225+00:00","last_reported":"2025-11-21T09:50:44.740225+00:00","last_updated":"2025-11-21T09:50:44.740225+00:00","context":{"id":"01KAJX5H042E293SHXVTCR2AMQ","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"automation.verwarming_uit_op_weekdagen","state":"on","attributes":{"id":"1761906098581","last_triggered":null,"mode":"single","current":0,"friendly_name":"Verwarming uit op weekdagen"},"last_changed":"2025-11-21T09:50:44.741422+00:00","last_reported":"2025-11-21T09:50:44.741422+00:00","last_updated":"2025-11-21T09:50:44.741422+00:00","context":{"id":"01KAJX5H05DH6Y43QRTPCAQ1YS","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"device_tracker.sm_s926b","state":"unknown","attributes":{"source_type":"gps","friendly_name":"SM-S926B dev"},"last_changed":"2025-11-21T09:51:02.049639+00:00","last_reported":"2025-11-21T09:51:02.049639+00:00","last_updated":"2025-11-21T09:51:02.049639+00:00","context":{"id":"01KAJX61X110BZEMCR6BTK7WAH","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.sm_s926b_battery_level","state":"97","attributes":{"state_class":"measurement","unit_of_measurement":"%","device_class":"battery","icon":"mdi:battery-charging-wireless-90","friendly_name":"SM-S926B dev Battery level"},"last_changed":"2025-11-27T03:30:45.156345+00:00","last_reported":"2025-11-27T03:30:45.156345+00:00","last_updated":"2025-11-27T03:30:45.156345+00:00","context":{"id":"01KB1NT1S4ESJ7XNMJNW4W031R","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": 97,
+        "native_unit_of_measurement": "%"
+      },
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.sm_s926b_battery_state","state":"full","attributes":{"options":["charging","discharging","full","not_charging"],"device_class":"enum","icon":"mdi:battery-charging","friendly_name":"SM-S926B dev Battery state"},"last_changed":"2025-11-26T23:40:59.976341+00:00","last_reported":"2025-11-26T23:40:59.976341+00:00","last_updated":"2025-11-26T23:40:59.976341+00:00","context":{"id":"01KB18NBP8C5K7XK8NSAJNKBMP","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "full",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"sensor.sm_s926b_charger_type","state":"wireless","attributes":{"options":["ac","usb","wireless","dock","none"],"device_class":"enum","icon":"mdi:battery-charging-wireless","friendly_name":"SM-S926B dev Charger type"},"last_changed":"2025-11-26T21:50:08.663235+00:00","last_reported":"2025-11-26T21:50:08.663235+00:00","last_updated":"2025-11-26T21:50:08.663235+00:00","context":{"id":"01KB12AC8QT1NFRS4EHSN4BSJD","parent_id":null,"user_id":null}},
+      "extra_data": {
+        "native_value": "wireless",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.dreame_vacuum_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v1.0.6","in_progress":false,"latest_version":"v1.0.6","release_summary":null,"release_url":"https://github.com/Tasshack/dreame-vacuum/releases/v1.0.6","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/dreame_vacuum/icon.png","friendly_name":"Dreame Vacuum update","supported_features":23},"last_changed":"2025-11-21T09:51:02.275576+00:00","last_reported":"2025-11-21T09:51:02.275576+00:00","last_updated":"2025-11-21T09:51:02.275576+00:00","context":{"id":"01KAJX6243K75ECWWR65W8VJTY","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.hacs_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.0.5","in_progress":false,"latest_version":"2.0.5","release_summary":null,"release_url":"https://github.com/hacs/integration/releases/2.0.5","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/hacs/icon.png","friendly_name":"HACS update","supported_features":23},"last_changed":"2025-11-21T09:51:02.279195+00:00","last_reported":"2025-11-21T09:51:02.279195+00:00","last_updated":"2025-11-21T09:51:02.279195+00:00","context":{"id":"01KAJX6247N94508FAGK9RDDVR","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.tuya_local_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2025.11.2","in_progress":false,"latest_version":"2025.11.2","release_summary":"<ha-alert alert-type='error'>Restart of Home Assistant required</ha-alert>","release_url":"https://github.com/make-all/tuya-local/releases/2025.11.2","skipped_version":null,"title":null,"update_percentage":null,"entity_picture":"https://brands.home-assistant.io/_/tuya_local/icon.png","friendly_name":"Tuya Local update","supported_features":23},"last_changed":"2025-11-26T21:01:49.678538+00:00","last_reported":"2025-11-26T21:01:49.730510+00:00","last_updated":"2025-11-26T21:01:49.729692+00:00","context":{"id":"01KB0ZHX91MTBR6V784SM1TR1K","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"tts.google_translate_en_com","state":"unknown","attributes":{"friendly_name":"Google Translate en com"},"last_changed":"2025-11-21T09:51:02.436722+00:00","last_reported":"2025-11-21T09:51:02.436722+00:00","last_updated":"2025-11-21T09:51:02.436722+00:00","context":{"id":"01KAJX62946Y2982QYHH8KSQVH","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.usw_flex_tuin","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"7.2.123.16565","in_progress":false,"latest_version":"7.2.123.16565","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"USW Flex Tuin","supported_features":4},"last_changed":"2025-11-21T09:51:02.852354+00:00","last_reported":"2025-11-21T09:52:25.430794+00:00","last_updated":"2025-11-21T09:51:02.852354+00:00","context":{"id":"01KAJX62P42D2K34RP2BGXG5RG","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.usw_meterkast","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"7.2.123.16565","in_progress":false,"latest_version":"7.2.123.16565","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"USW Meterkast","supported_features":4},"last_changed":"2025-11-21T09:51:02.853836+00:00","last_reported":"2025-11-21T09:52:25.441025+00:00","last_updated":"2025-11-21T09:51:02.853836+00:00","context":{"id":"01KAJX62P5XDC17PSH57B1A0KA","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.usw_flex_tuinhuis","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"7.2.123.16565","in_progress":false,"latest_version":"7.2.123.16565","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"USW Flex Tuinhuis","supported_features":4},"last_changed":"2025-11-21T09:51:02.856266+00:00","last_reported":"2025-11-21T09:52:25.427430+00:00","last_updated":"2025-11-21T09:51:02.856266+00:00","context":{"id":"01KAJX62P8547A9DS5PN3XYG8F","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.u6_pro_boven_voorhuis","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"6.7.35.15586","in_progress":false,"latest_version":"6.7.35.15586","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"U6 Pro Boven Voorhuis","supported_features":4},"last_changed":"2025-11-23T02:03:05.448353+00:00","last_reported":"2025-11-23T02:07:26.756871+00:00","last_updated":"2025-11-23T02:03:05.448353+00:00","context":{"id":"01KAQ76NB80PCK4H081KCM3WGE","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.tv_hoek","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"2.1.6.762","in_progress":false,"latest_version":"2.1.6.762","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"TV hoek","supported_features":4},"last_changed":"2025-11-21T09:51:02.858381+00:00","last_reported":"2025-11-21T09:52:25.443164+00:00","last_updated":"2025-11-21T09:51:02.858381+00:00","context":{"id":"01KAJX62PAS58Q4YXTH63PVFV0","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.thuis","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"4.4.7.27573","in_progress":false,"latest_version":"4.4.7.27573","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"Thuis","supported_features":4},"last_changed":"2025-11-21T09:51:02.859204+00:00","last_reported":"2025-11-21T09:52:25.474974+00:00","last_updated":"2025-11-21T09:51:02.859204+00:00","context":{"id":"01KAJX62PBVKMSAJ0BGSX0EEC1","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.u6_mesh_tuinhuis","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"6.7.35.15586","in_progress":false,"latest_version":"6.7.35.15586","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"U6 Mesh Tuinhuis","supported_features":4},"last_changed":"2025-11-22T02:02:48.675208+00:00","last_reported":"2025-11-22T02:07:26.166581+00:00","last_updated":"2025-11-22T02:02:48.675208+00:00","context":{"id":"01KAMMSDZ3DRGE32W77QY0R4JE","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.ubb","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"3.1.5.256","in_progress":false,"latest_version":"3.1.5.256","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"UBB","supported_features":4},"last_changed":"2025-11-21T09:51:02.861789+00:00","last_reported":"2025-11-21T09:52:25.433771+00:00","last_updated":"2025-11-21T09:51:02.861789+00:00","context":{"id":"01KAJX62PDM1PPMQ9ZQEMTH1EK","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.usw_pi_cluster","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"7.2.123.16565","in_progress":false,"latest_version":"7.2.123.16565","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"USW Pi-cluster","supported_features":4},"last_changed":"2025-11-21T09:51:02.862754+00:00","last_reported":"2025-11-21T09:52:25.438576+00:00","last_updated":"2025-11-21T09:51:02.862754+00:00","context":{"id":"01KAJX62PEQAS8D1RXDRB9B83E","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.usw_kantoor","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"7.2.123.16565","in_progress":false,"latest_version":"7.2.123.16565","release_summary":null,"release_url":null,"skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/unifi/icon.png","friendly_name":"USW Kantoor","supported_features":4},"last_changed":"2025-11-21T09:51:02.863666+00:00","last_reported":"2025-11-21T09:52:25.436093+00:00","last_updated":"2025-11-21T09:51:02.863666+00:00","context":{"id":"01KAJX62PF0MRRZWR7N2RHVYBG","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.kast_herstarten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Zithoek Links Herstarten"},"last_changed":"2025-11-23T02:03:21.144835+00:00","last_reported":"2025-11-23T02:07:21.116011+00:00","last_updated":"2025-11-23T02:03:21.144835+00:00","context":{"id":"01KAQ774NRRXZRQFAZZ0JD3CET","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.kast_identificeren","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Zithoek Links Identificeren"},"last_changed":"2025-11-23T02:03:21.145172+00:00","last_reported":"2025-11-23T02:07:21.116295+00:00","last_updated":"2025-11-23T02:03:21.145172+00:00","context":{"id":"01KAQ774NSTZJ1K84N87FTXWVP","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.nachtlamp_herstarten_2","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Nachtlamp Herstarten"},"last_changed":"2025-11-23T02:03:20.128784+00:00","last_reported":"2025-11-23T02:07:20.101746+00:00","last_updated":"2025-11-23T02:03:20.128784+00:00","context":{"id":"01KAQ773P0GY80C31XE1C09C7Y","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.nachtlamp_identificeren_2","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Nachtlamp Identificeren"},"last_changed":"2025-11-23T02:03:20.129313+00:00","last_reported":"2025-11-23T02:07:20.102110+00:00","last_updated":"2025-11-23T02:03:20.129313+00:00","context":{"id":"01KAQ773P1E2FW26JSFV4SBSY1","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.vitrine_herstarten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Vitrine Herstarten"},"last_changed":"2025-11-23T02:02:53.211146+00:00","last_reported":"2025-11-23T02:07:23.202464+00:00","last_updated":"2025-11-23T02:02:53.211146+00:00","context":{"id":"01KAQ769CVC92DBF7QF0AJA57T","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.vitrine_identificeren","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Vitrine Identificeren"},"last_changed":"2025-11-23T02:02:53.211788+00:00","last_reported":"2025-11-23T02:07:23.202760+00:00","last_updated":"2025-11-23T02:02:53.211788+00:00","context":{"id":"01KAQ769CV784427JPB14DFN69","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.nachtlamp_herstarten_3","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Nachtlamp Herstarten"},"last_changed":"2025-11-21T09:51:03.078957+00:00","last_reported":"2025-11-21T09:52:22.953269+00:00","last_updated":"2025-11-21T09:51:03.078957+00:00","context":{"id":"01KAJX62X63PPRQAHKXJ0Q99KW","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.nachtlamp_identificeren_3","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Nachtlamp Identificeren"},"last_changed":"2025-11-21T09:51:03.081973+00:00","last_reported":"2025-11-21T09:52:22.953610+00:00","last_updated":"2025-11-21T09:51:03.081973+00:00","context":{"id":"01KAJX62X975BD7KF4RHDGCZ7Y","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.raam_herstarten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Zithoek Rechts Herstarten"},"last_changed":"2025-11-21T09:51:03.091581+00:00","last_reported":"2025-11-21T09:52:23.192347+00:00","last_updated":"2025-11-21T09:51:03.091581+00:00","context":{"id":"01KAJX62XKC71J4FHCJQ5NZMAD","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.raam_identificeren","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Zithoek Rechts Identificeren"},"last_changed":"2025-11-21T09:51:03.092547+00:00","last_reported":"2025-11-21T09:52:23.192699+00:00","last_updated":"2025-11-21T09:51:03.092547+00:00","context":{"id":"01KAJX62XMWX61PHPQ3V2Q4TPK","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.tuin_firmware","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v3.1.0.3429_2404181313","in_progress":false,"latest_version":"v3.1.0.3429_2404181313","release_summary":null,"release_url":"https://reolink.com/download-center/","skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/reolink/icon.png","friendly_name":"Tuin Firmware","supported_features":1},"last_changed":"2025-11-21T09:51:03.482184+00:00","last_reported":"2025-11-21T09:51:03.482184+00:00","last_updated":"2025-11-21T09:51:03.482184+00:00","context":{"id":"01KAJX639TPNE1MG60H21KCD22","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.voordeur_firmware","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"v3.0.0.4662_2508071283","in_progress":false,"latest_version":"v3.0.0.4662_2508071283","release_summary":null,"release_url":"https://reolink.com/download-center/","skipped_version":null,"title":null,"update_percentage":null,"device_class":"firmware","entity_picture":"https://brands.home-assistant.io/_/reolink/icon.png","friendly_name":"Voordeur Firmware","supported_features":1},"last_changed":"2025-11-23T09:51:08.308011+00:00","last_reported":"2025-11-23T09:51:08.308011+00:00","last_updated":"2025-11-23T09:51:08.308011+00:00","context":{"id":"01KAR1ZP0MH2B3D5926HKT0PPT","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.rsmeetsds920_reboot","state":"unknown","attributes":{"device_class":"restart","friendly_name":"RSmeetsDS920 Reboot"},"last_changed":"2025-11-21T09:53:22.801537+00:00","last_reported":"2025-11-21T09:53:22.801537+00:00","last_updated":"2025-11-21T09:53:22.801537+00:00","context":{"id":"01KAJXABBHHVW7BKQVSQD5WG0N","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.rsmeetsds920_shutdown","state":"unknown","attributes":{"icon":"mdi:power","friendly_name":"RSmeetsDS920 Shutdown"},"last_changed":"2025-11-21T09:53:22.803162+00:00","last_reported":"2025-11-21T09:53:22.803162+00:00","last_updated":"2025-11-21T09:53:22.803162+00:00","context":{"id":"01KAJXABBKY3MYPEX4PYFE3RBC","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"update.rsmeetsds920_dsm_update","state":"off","attributes":{"auto_update":false,"display_precision":0,"installed_version":"DSM 7.2.2-72806 Update 5","in_progress":false,"latest_version":"DSM 7.2.2-72806 Update 5","release_summary":null,"release_url":null,"skipped_version":null,"title":"Synology DSM","update_percentage":null,"attribution":"Data provided by Synology","entity_picture":"https://brands.home-assistant.io/_/synology_dsm/icon.png","friendly_name":"RSmeetsDS920 DSM update","supported_features":0},"last_changed":"2025-11-21T09:53:22.967429+00:00","last_reported":"2025-11-21T09:53:22.967429+00:00","last_updated":"2025-11-21T09:53:22.967429+00:00","context":{"id":"01KAJXABGQP2HDHMTKN7ZCNS12","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.nachtlamp_herstarten","state":"unknown","attributes":{"device_class":"restart","friendly_name":"Nachtlamp Herstarten"},"last_changed":"2025-11-24T19:40:20.938950+00:00","last_reported":"2025-11-24T19:52:21.904363+00:00","last_updated":"2025-11-24T19:40:20.938950+00:00","context":{"id":"01KAVP392AEVSSN1T5466DJT7T","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    },
+    {
+      "state": {"entity_id":"button.nachtlamp_identificeren","state":"unknown","attributes":{"device_class":"identify","friendly_name":"Nachtlamp Identificeren"},"last_changed":"2025-11-24T19:40:20.939871+00:00","last_reported":"2025-11-24T19:52:21.904673+00:00","last_updated":"2025-11-24T19:40:20.939871+00:00","context":{"id":"01KAVP392B2GJVW0ZETXEY7FG6","parent_id":null,"user_id":null}},
+      "extra_data": null,
+      "last_seen": "2025-11-27T03:52:31.100041+00:00"
+    }
+  ]
+}

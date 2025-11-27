@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "minor_version": 1,
+  "key": "person",
+  "data": {
+    "items": [
+      {
+        "id": "ralph_smeets",
+        "name": "Ralph Smeets",
+        "user_id": "25d8d4ad4a684dad995c2d30127bab37",
+        "device_trackers": [
+          "device_tracker.s24_van_ralph"
+        ],
+        "picture": null
+      },
+      {
+        "id": "irene_wouters",
+        "name": "Irene Wouters",
+        "device_trackers": [
+          "device_tracker.s24_fe_van_irene"
+        ],
+        "user_id": "7bb01b6cda1f43038f0c29c0a9b92230",
+        "picture": null
+      },
+      {
+        "id": "roderic_smeets_millon",
+        "name": "Roderic Smeets--Millon",
+        "device_trackers": [
+          "device_tracker.oneplus_9_pro"
+        ],
+        "user_id": null,
+        "picture": null
+      },
+      {
+        "id": "imre_rijsdijk",
+        "name": "Imre Rijsdijk",
+        "device_trackers": [
+          "device_tracker.oppo_reno13_f_5g"
+        ],
+        "user_id": null,
+        "picture": null
+      },
+      {
+        "id": "jess_rijsdijk",
+        "name": "Jess Rijsdijk",
+        "device_trackers": [
+          "device_tracker.oneplus_6t"
+        ],
+        "user_id": null,
+        "picture": null
+      }
+    ]
+  }
+}

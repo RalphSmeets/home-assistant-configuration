@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "core.label_registry",
+  "data": {
+    "labels": [
+      {
+        "color": null,
+        "description": null,
+        "icon": null,
+        "label_id": "woonkamer",
+        "name": "woonkamer",
+        "created_at": "2025-11-13T15:17:58.263933+00:00",
+        "modified_at": "2025-11-13T15:17:58.263952+00:00"
+      },
+      {
+        "color": null,
+        "description": null,
+        "icon": null,
+        "label_id": "leeshoek",
+        "name": "leeshoek",
+        "created_at": "2025-11-13T15:18:07.848333+00:00",
+        "modified_at": "2025-11-13T15:18:07.848373+00:00"
+      },
+      {
+        "color": null,
+        "description": null,
+        "icon": null,
+        "label_id": "begane_grond",
+        "name": "begane_grond",
+        "created_at": "2025-11-13T15:18:34.082974+00:00",
+        "modified_at": "2025-11-13T15:18:34.083001+00:00"
+      }
+    ]
+  }
+}

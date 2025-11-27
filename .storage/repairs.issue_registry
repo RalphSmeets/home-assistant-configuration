@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "repairs.issue_registry",
+  "data": {
+    "issues": [
+      {
+        "created": "2025-11-26T21:01:49.728377+00:00",
+        "dismissed_version": null,
+        "domain": "hacs",
+        "is_persistent": false,
+        "issue_id": "restart_required_256928684_tags/2025.11.2"
+      }
+    ]
+  }
+}
