@@ -36,7 +36,7 @@ notebooks
 .Trash*
 
 # Ignore vendored stuff
-custom_components
+# custom_components
 themes
 www/community
 
